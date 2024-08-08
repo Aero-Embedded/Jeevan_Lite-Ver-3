@@ -1,0 +1,13 @@
+Oxygen_Blending.c:23:6:Oxygen_Blending_Task	16	static
+Oxygen_Blending.c:34:6:Oxygen_Blending	16	static
+Oxygen_Blending.c:72:6:Adjust_Servo_And_Calculate_O2	16	static
+Oxygen_Blending.c:145:6:Get_Oxygen_Value	16	static
+Oxygen_Blending.c:159:6:O2_Initial_Parameter	16	static
+Oxygen_Blending.c:180:6:Servo_Info	16	static
+Oxygen_Blending.c:189:6:O2_DAC_Control	16	static
+Oxygen_Blending.c:216:6:Low_Oxygen_Achieved	24	static
+Oxygen_Blending.c:242:6:High_Oxygen_Achieved	24	static
+Oxygen_Blending.c:271:10:Set_Initial_O2_DAC_VAL_Pressure_Modes	16	static
+Oxygen_Blending.c:331:10:Set_Initial_O2_DAC_VAL_Volume_Modes	16	static
+Oxygen_Blending.c:390:6:Servo_Position_Pressure_Controlled_Mode	16	static
+Oxygen_Blending.c:426:6:Servo_Position_Volume_Controlled_Mode	16	static

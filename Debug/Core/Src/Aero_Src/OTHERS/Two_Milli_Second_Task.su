@@ -1,0 +1,11 @@
+Two_Milli_Second_Task.c:13:6:Time_Trace_Task	16	static
+Two_Milli_Second_Task.c:55:6:INSPIRATION_TIME_TRACE	8	static
+Two_Milli_Second_Task.c:95:6:EXPIRATION_TIME_TRACE	8	static
+Two_Milli_Second_Task.c:128:6:PC_SIMV_BLOWER_WAIT_TIME_TRACE	4	static
+Two_Milli_Second_Task.c:148:6:VC_SIMV_BLOWER_WAIT_TIME_TRACE	4	static
+Two_Milli_Second_Task.c:169:6:PSV_APNEA_COUNTER_TRACE	4	static
+Two_Milli_Second_Task.c:217:6:BIPAP_APNEA_COUNTER_TRACE	4	static
+Two_Milli_Second_Task.c:262:6:CPAP_APNEA_COUNTER_TRACE	8	static
+Two_Milli_Second_Task.c:305:6:APRV_APNEA_COUNTER_TRACE	4	static
+Two_Milli_Second_Task.c:329:6:BREATH_COUNT	4	static
+Two_Milli_Second_Task.c:354:6:Nebuliser_Timing	4	static

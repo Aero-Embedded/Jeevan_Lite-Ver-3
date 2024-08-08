@@ -1,0 +1,6 @@
+Pressure_Sensor.c:16:10:Pressure_Sensor_Moving_Average	16	static
+Pressure_Sensor.c:24:10:Pressure_Sensor_Mv	16	static
+Pressure_Sensor.c:29:6:Pressure_Sensor_offset	24	static
+Pressure_Sensor.c:53:6:Pressure_Sensor_Value	32	static
+Pressure_Sensor.c:82:10:ADS1115_Pressure_sensor	24	static
+Pressure_Sensor.c:107:7:Pressure_Sensor_raw_Volt	24	static

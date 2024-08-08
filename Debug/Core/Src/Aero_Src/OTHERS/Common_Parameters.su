@@ -1,0 +1,7 @@
+Common_Parameters.c:12:6:Find_Max_PIP	4	static
+Common_Parameters.c:20:6:Find_Maximum_PEEP	4	static
+Common_Parameters.c:29:6:PIP_AVERAGE	4	static
+Common_Parameters.c:41:6:PEEP_AVERAGE	4	static
+Common_Parameters.c:73:6:INITIAL_DAC_VALUE	4	static
+Common_Parameters.c:138:10:DAC_VAL	16	static
+Common_Parameters.c:320:6:Change_DAC_Values	16	static

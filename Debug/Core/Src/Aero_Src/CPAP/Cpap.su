@@ -1,0 +1,13 @@
+Cpap.c:26:6:CPAP_Mode_Packet_Data	16	static
+Cpap.c:47:6:CPAP_Task	16	static
+Cpap.c:72:13:CPAP_CONTROL	8	static
+Cpap.c:139:13:RUN_CPAP_MAINTAIN_BLOWER	8	static
+Cpap.c:147:13:STOP_BLOWER_IF_FLOW_SENSE	4	static
+Cpap.c:156:13:CHECK_PRESSURE_TRIGGER	8	static
+Cpap.c:174:13:CHECK_FLOW_TRIGGER	8	static
+Cpap.c:192:13:CHECK_TRIGGER_OFFSET	4	static
+Cpap.c:203:13:CPAP_AVERAGE	8	static
+Cpap.c:222:17:TUNE_CPAP_BLOWER	16	static
+Cpap.c:257:13:RESET_FLAGS	8	static
+Cpap.c:273:13:BACKUP_PC_CMV_START	8	static
+Cpap.c:328:13:Patient_Circuit_Disconnected_Alert_CPAP	8	static

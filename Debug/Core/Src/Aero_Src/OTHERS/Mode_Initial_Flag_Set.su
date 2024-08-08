@@ -1,0 +1,16 @@
+Mode_Initial_Flag_Set.c:14:6:Mode_Initial_Flag_Set_Task	16	static
+Mode_Initial_Flag_Set.c:79:6:PC_CMV_Initial_Flags_SET	8	static
+Mode_Initial_Flag_Set.c:162:6:VC_CMV_Initial_Flags_SET	8	static
+Mode_Initial_Flag_Set.c:220:6:PC_SIMV_Initial_Flags_SET	8	static
+Mode_Initial_Flag_Set.c:318:6:VC_SIMV_Initial_Flags_SET	8	static
+Mode_Initial_Flag_Set.c:389:6:PSV_Initial_Flags_SET	8	static
+Mode_Initial_Flag_Set.c:434:6:CPAP_Initial_Flags_SET	8	static
+Mode_Initial_Flag_Set.c:479:6:BIBAP_Initial_Flags_SET	8	static
+Mode_Initial_Flag_Set.c:524:6:APRV_Initial_Flags_SET	8	static
+Mode_Initial_Flag_Set.c:574:6:Backup_PC_CMV_Initial_Flags_SET	16	static
+Mode_Initial_Flag_Set.c:687:6:Reset_PC_CMV_Old_Flags_Reset	4	static
+Mode_Initial_Flag_Set.c:706:6:Reset_VC_CMV_Old_Flags_Reset	4	static
+Mode_Initial_Flag_Set.c:725:6:Reset_PC_SIMV_Old_Flags_Reset	4	static
+Mode_Initial_Flag_Set.c:744:6:Reset_VC_SIMV_Old_Flags_Reset	4	static
+Mode_Initial_Flag_Set.c:763:6:Reset_PC_CMV_BACKUP_Old_Flags_Reset	4	static
+Mode_Initial_Flag_Set.c:776:6:Reset_Patient_Circuit_Diconnceted_Alert_Flags	8	static

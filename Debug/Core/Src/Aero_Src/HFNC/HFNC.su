@@ -1,0 +1,5 @@
+HFNC.c:25:6:HFNC_Task	16	static
+HFNC.c:58:6:HFNC_Packet_Data	16	static
+HFNC.c:133:6:Check_O2_Supply	8	static
+HFNC.c:161:17:HFNC_TUNE_DAC_VALUE	16	static
+HFNC.c:196:10:HFNC_DAC_Value	16	static
